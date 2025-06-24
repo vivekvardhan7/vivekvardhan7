@@ -6,7 +6,20 @@
 </p>
 
 ---
+🙋‍♂️ Let me tell you a bit about myself
+🌱 I’m currently learning AI/ML, Web Dev & DSA
 
+💼 I’m working as a Full Stack AI Intern at Reaidy.io
+
+💡 Passionate about building innovative tech for social good
+
+🧠 I enjoy building intelligent systems (CureHouzz, SayHey AI, AgriVation)
+
+💬 Ask me about anything tech, I love helping others
+
+🎯 Goals: Crack 15+ LPA software roles (campus placements 2025)
+
+🏸 Fun Fact: I love photography and badminton 🎯📷
 ```diff
 I am an aspiring Full Stack and AI Software Developer 🚀
 
