@@ -10,10 +10,10 @@
 ### 🌟 About Me
 
 - 🎓 Final Year B.Tech CSE student at NIT Mizoram
-- 💼 AI Developer Intern @ Reaidy.io | Worked on SayHey, CureHouzz, and more
+- 💼 AI Developer Intern @ Reaidy.io | Worked on SayHey, Reaidy.io, and more
 - 🧠 Currently focused on Full Stack Web Dev + AI/ML
 - 📌 Campus placement target: **15+ LPA Software Roles**
-- 📷 Outside code, I love **photography** and **badminton**
+- 📷 Outside code, I love **photography** 
 
 ---
 
@@ -72,7 +72,7 @@
 ### 🔗 Let's Connect!
 
 <p align="left">
-  <a href="mailto:saivivekofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:saivivek2809@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sai-vivek-tata-049210280"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://personal-portfolio-bjfk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
