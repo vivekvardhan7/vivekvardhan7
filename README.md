@@ -56,18 +56,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekvardhan7&show_icons=true&theme=midnight-purple" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvardhan7&layout=compact&theme=midnight-purple" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekvardhan7&theme=react-dark" alt="activity graph" />
-</p>
-
----
 
 ### 🔗 Let's Connect!
 
