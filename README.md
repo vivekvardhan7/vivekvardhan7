@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sai Vivek Vardhan</h1>
-<h3 align="center">A passionate Full Stack and AI Developer from India 🇮🇳</h3>
+<h1 align="center">Hi there 👋, my name is Sai Vivek Vardhan</h1>
+<h3 align="center">An Undergrad student pursuing Computer Science at NIT MIZORAM</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saivivekofficial&label=Profile%20views&color=0e75b6&style=flat" alt="saivivekofficial" />
+</p>
 
 ---
+
+```diff
+I am an aspiring Full Stack and AI Software Developer 🚀
+
 
 ## 🛠️ Skills
 
