@@ -12,7 +12,6 @@
 - 🎓 Final Year B.Tech CSE student at NIT Mizoram
 - 💼 AI Developer Intern @ Reaidy.io | Worked on SayHey, Reaidy.io, and more
 - 🧠 Currently focused on Full Stack Web Dev + AI/ML
-- 📌 Campus placement target: **15+ LPA Software Roles**
 - 📷 Outside code, I love **photography** 
 
 ---
